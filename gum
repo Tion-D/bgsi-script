@@ -1,0 +1,142 @@
+    return {
+        ["Basic Gum"] = {
+            Storage = 10;
+            Area = "The Overworld";
+            Image = "rbxassetid://134179299358863";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 0;
+            };
+        };
+        ["Stretchy Gum"] = {
+            Storage = 45;
+            Area = "The Overworld";
+            Image = "rbxassetid://108550198719106";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 25;
+            };
+        };
+        ["Chewy Gum"] = {
+            Storage = 125;
+            Area = "The Overworld";
+            Image = "rbxassetid://82809919925394";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 250;
+            };
+        };
+        ["Epic Gum"] = {
+            Storage = 550;
+            Area = "The Overworld";
+            Image = "rbxassetid://83808857441064";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 1500;
+            };
+        };
+        ["Ultra Gum"] = {
+            Storage = 950;
+            Area = "The Overworld";
+            Image = "rbxassetid://94321969730184";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 5000;
+            };
+        };
+        ["Omega Gum"] = {
+            Storage = 1750;
+            Area = "The Overworld";
+            Image = "rbxassetid://93588349037042";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 12000;
+            };
+        };
+        ["Unreal Gum"] = {
+            Storage = 4500;
+            Area = "Outer Space";
+            Image = "rbxassetid://128147517686828";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 45000;
+            };
+        };
+        ["Cosmic Gum"] = {
+            Storage = 12500;
+            Area = "Outer Space";
+            Image = "rbxassetid://88359775641835";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 125000;
+            };
+        };
+        ["XL Gum"] = {
+            Storage = 65500;
+            Area = "Outer Space";
+            Image = "rbxassetid://86107881838160";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 650000;
+            };
+        };
+        ["Mega Gum"] = {
+            Storage = 100000;
+            Area = "Twilight";
+            Image = "rbxassetid://118380171553152";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 1500000;
+            };
+        };
+        ["Quantum Gum"] = {
+            Storage = 225000;
+            Area = "Twilight";
+            Image = "rbxassetid://104358442299675";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 5000000;
+            };
+        };
+        ["Alien Gum"] = {
+            Storage = 600000;
+            Area = "Twilight";
+            Image = "rbxassetid://136292734796406";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 35000000;
+            };
+        };
+        ["Radioactive Gum"] = {
+            Storage = 900000;
+            Area = "Zen";
+            Image = "rbxassetid://95717273086527";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 150000000;
+            };
+        };
+        ["Experiment #52"] = {
+            Storage = 1500000;
+            Area = "Zen";
+            Image = "rbxassetid://130972694579204";
+            Cost = {
+                Type = "Currency";
+                Currency = "Coins";
+                Amount = 1000000000;
+            };
+        };
+    }
