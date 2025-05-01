@@ -1,0 +1,134 @@
+return {
+	["Bubble Gum"] = {
+		Bubbles = 1;
+		Area = "The Overworld";
+		Image = "rbxassetid://139415836850114";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 0;
+		};
+		Color = Color3.fromRGB(255, 102, 196);
+	};
+	Blueberry = {
+		Bubbles = 3;
+		Area = "The Overworld";
+		Image = "rbxassetid://127138637952250";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 25;
+		};
+		Color = Color3.fromRGB(180, 106, 255);
+	};
+	Cherry = {
+		Bubbles = 8;
+		Area = "The Overworld";
+		Image = "rbxassetid://92526515191978";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 500;
+		};
+		Color = Color3.fromRGB(255, 25, 29);
+	};
+	Pizza = {
+		Bubbles = 22;
+		Area = "The Overworld";
+		Image = "rbxassetid://74366960635758";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 1500;
+		};
+		Color = Color3.fromRGB(180, 106, 255);
+	};
+	Watermelon = {
+		Bubbles = 40;
+		Area = "The Overworld";
+		Image = "rbxassetid://95367549154504";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 3500;
+		};
+		Color = Color3.fromRGB(255, 34, 159);
+	};
+	Chocolate = {
+		Bubbles = 65;
+		Area = "The Overworld";
+		Image = "rbxassetid://88611954368055";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 10000;
+		};
+		Color = Color3.fromRGB(67, 29, 3);
+	};
+	Contrast = {
+		Bubbles = 80;
+		Area = "Outer Space";
+		Image = "rbxassetid://99203979994155";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 35000;
+		};
+		Color = Color3.new(1, 1, 1);
+	};
+	Gold = {
+		Bubbles = 130;
+		Area = "Outer Space";
+		Image = "rbxassetid://126786812999154";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 100000;
+		};
+		Color = Color3.fromRGB(200, 158, 60);
+	};
+	Lemon = {
+		Bubbles = 210;
+		Area = "Outer Space";
+		Image = "rbxassetid://72014486118689";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 450000;
+		};
+		Color = Color3.fromRGB(255, 225, 0);
+	};
+	Donut = {
+		Bubbles = 400;
+		Area = "Zen";
+		Image = "rbxassetid://75404662749637";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 1500000;
+		};
+		Color = Color3.fromRGB(255, 147, 246);
+
+	};
+	Swirl = {
+		Bubbles = 950;
+		Area = "Zen";
+		Image = "rbxassetid://93287710605733";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 30000000;
+		};
+		Color = Color3.new(1, 1, 1);
+	};
+	Molten = {
+		Bubbles = 1450;
+		Area = "Zen";
+		Image = "rbxassetid://133398951715883";
+		Cost = {
+			Type = "Currency";
+			Currency = "Coins";
+			Amount = 350000000;
+		};
+	};
+}
